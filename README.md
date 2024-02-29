@@ -4,7 +4,7 @@
 
 Submitted by: **Yashaswe Amatya**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
@@ -39,6 +39,10 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
+
+
+https://github.com/Yashaswe/codepath-helloSquirrel/assets/86225904/8b217788-73d0-4511-b11e-6ef971b24b23
+
 
 <img width="305" alt="Screenshot 2024-02-28 at 22 48 08" src="https://github.com/Yashaswe/codepath-helloSquirrel/assets/86225904/c0a901b7-50af-40ed-8be5-c9238d293207">
 <img width="211" alt="Screenshot 2024-02-28 at 22 48 24" src="https://github.com/Yashaswe/codepath-helloSquirrel/assets/86225904/097c8be7-2cf5-47ca-86c5-61f5863a7163">
