@@ -35,13 +35,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+![ezgif com-crop](https://github.com/Yashaswe/codepath-helloSquirrel/assets/86225904/1deba731-0920-402d-b625-716e71944a1e)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
-
-GIF created with **your chosen GIF tool**
-
-
-https://github.com/Yashaswe/codepath-helloSquirrel/assets/86225904/8b217788-73d0-4511-b11e-6ef971b24b23
+GIF created with **ezgif**
 
 
 <img width="305" alt="Screenshot 2024-02-28 at 22 48 08" src="https://github.com/Yashaswe/codepath-helloSquirrel/assets/86225904/c0a901b7-50af-40ed-8be5-c9238d293207">
